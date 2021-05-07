@@ -30,16 +30,16 @@
 
     <LinearLayout
         android:id="@+id/LayTudo"
-        android:layout_width="372dp"
-        android:layout_height="630dp"
-        android:orientation="vertical"
+        android:layout_width="600dp"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView">
 
         <LinearLayout
             android:id="@+id/LayDados"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
@@ -88,7 +88,7 @@
 
         <LinearLayout
             android:id="@+id/LayResult"
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
