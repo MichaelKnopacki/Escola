@@ -101,7 +101,7 @@ Além da diferenciação de cada resultado pela cor do texto. Foi criado uma men
 
 <br />
 
-Além do retorno através de um texto colorido e um _toast_, criamos três _imageView_ para ilustrar cada um dos resultados.
+Também criamos três _imageView_ para ilustrar cada um dos resultados.
 
 <br />
 
